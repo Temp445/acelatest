@@ -1,0 +1,418 @@
+{
+  "Menu": {
+    "CMSTooltip": "Intelligente, semplice e fluido – calibrazione resa facile",
+    "CRMTooltip": "Conosci il tuo cliente. Fai crescere il tuo business.",
+    "PPAPTooltip": "Qualità garantita, ogni pezzo, ogni volta.",
+    "ProjectTooltip": "Semplifica i progetti. Potenzia i team."
+  },
+  "Header": {
+    "Home": "Home",
+    "Blog": "Blog",
+    "BlogPanel": "Pannello Blog",
+    "SiteAdmin": "Amministratore del sito",
+    "Product": "Prodotti",
+    "Enquiry": "Richiesta prodotto",
+    "Contact": "Contattaci",
+    "About": "Chi siamo",
+    "Dashboard": "Dashboard",
+    "Login": "Accedi",
+    "Logout": "Esci",
+    "Allproducts": "Tutti i prodotti",
+     "bookDemo": "Prenota una demo"
+  },
+  "Hero": {
+    "Title": "Forniamo soluzioni software aziendali per",
+    "highlight": "l'industria manifatturiera",
+    "Description": "Ottimizza la tua azienda con soluzioni ERP avanzate, innovazioni Industry 4.0 e sistemi di gestione cloud. Dall’automotive all’aerospaziale, fino alla produzione e al commercio, offriamo software intelligenti, scalabili e sicuri su misura per il tuo settore.",
+    "button": {
+      "Contact": "Contattaci",
+      "readmore": "Scopri di più",
+      "Viewall": "Visualizza tutti i prodotti",
+      "BookDemo": "Prenota demo",
+      "OurClients": "I nostri clienti"
+    },
+    "WhoWe": {
+      "Title": "Chi siamo",
+      "Description": "una società fondata nel 2001, con sede e centro R&S a Chennai. Fondata da professionisti con ampia esperienza nel settore manifatturiero. Il team ASSPL ha esperienza nella progettazione e implementazione di sistemi ERP, soluzioni IIoT e Industry 4.0 e prodotti SaaS per aziende di ogni dimensione."
+    },
+    "count": {
+      "clients": "Clienti",
+      "years": "Anni",
+      "projects": "Progetti"
+    },
+    "product": {
+      "Title": "I nostri prodotti",
+      "cmspara1": "sul cloud – un sistema di gestione della calibrazione completo, efficiente e intuitivo per gestire strumenti e calibro.",
+      "cmspara2": "La calibrazione degli strumenti è un processo fondamentale per qualsiasi industria manifatturiera per garantire prodotti affidabili e di qualità.",
+      "pmspara1": "supporta la pianificazione, produzione, monitoraggio e controllo, incluse azioni correttive in tempo reale sul campo.",
+      "pmspara2": "L’obiettivo del Production Management System è produrre prodotti di qualità nella giusta quantità, al momento giusto e in modo conveniente."
+    },
+    "DemoCard": {
+      "Title": "Pronto a trasformare la tua azienda?",
+      "para": "Prenota una demo personalizzata per vedere come le nostre soluzioni possono affrontare le tue sfide e favorire la crescita."
+    }
+  },
+  "About": {
+    "Title": "Informazioni su ACE Software Solutions",
+    "Description": "una società fondata nel 2001, con sede e centro R&S a Chennai. Fondata da esperti con esperienza nel settore manufatturiero.",
+    "para": "Il team di gestione ASSPL ha esperienza nella progettazione e implementazione di",
+    "highlight": " sistemi ERP, soluzioni Industry 4.0 e IIoT e prodotti SaaS",
+    "para1": "per piccole, medie e grandi aziende.",
+    "para2": "Il team possiede competenze funzionali nei settori automobilistico, aerospaziale, fonderia, conciario e gestione progetti, con conoscenza delle certificazioni di qualità (ISO, TS, ambientali) e ha guidato grandi aziende in questi percorsi.",
+    "para3": "Competenza nei settori automotive, aerospaziale, fonderia, conciario e project management, con comprensione delle norme ISO, TS e ambientali, vantaggio competitivo.",
+    "para4": "Il team di sviluppo fornisce rapidamente soluzioni pronte per PMI e soluzioni su misura per grandi aziende.",
+    "Vision": "La nostra visione",
+    "VisionPara": "Portare prodotti tecnologici – IIoT – Industry 4.0 e modelli SaaS a aziende di tutte le dimensioni, superando sempre le aspettative.",
+    "Mission": "La nostra missione",
+    "MissionPara": "Fornire i migliori prodotti tecnologici e soluzioni SaaS al mondo per permettere alle aziende di eccellere.",
+    "Values": "I nostri valori",
+    "ValuesPara": "Offriamo soluzioni su misura, assumiamo responsabilità, rispettiamo le scadenze e puntiamo all’eccellenza, stabilità e crescita.",
+    "WhyChoose": {
+      "Title": "Perché sceglierci",
+      "Subtitle": "6 motivi per collaborare con noi",
+      "Point1": "Esperti in software ingegneristico",
+      "dec1": "Dal 2001 sviluppiamo software ingegneristici e soluzioni personalizzate per realtà come la tua.",
+      "Point2": "Team altamente qualificato ed esperto",
+      "dec2": "I nostri esperti sono specializzati in automazione, software aziendale e soluzioni ingegneristiche.",
+      "Point3": "Supporto rapido e affidabile",
+      "dec3": "Forniamo assistenza tempestiva per minimizzare i tempi di fermo e mantenere operative le attività.",
+      "Point4": "Fiducia globale",
+      "dec4": "Oltre vent’anni focalizzati su qualità, affidabilità e partnership durature.",
+      "Point5": "Software su misura",
+      "dec5": "Dagli strumenti ingegneristici alle soluzioni CRM e PPAP – realizzati su misura.",
+      "Point6": "Tecnologia semplice e intuitiva",
+      "dec6": "Rendiamo la tecnologia complessa facile da usare e integrare."
+    },
+    "Team": {
+      "Title": "Il nostro team dirigenziale",
+      "name1": "R Rajagopalan",
+      "position1": "Presidente di",
+      "dec1": "Oltre 35 anni di esperienza nell’industria automobilistica, ingegneria industriale, pianificazione produzione, sistemi produttivi e gestione materiali.",
+      "name2": "S Rajasekaran",
+      "position2": "Amministratore delegato di",
+      "dec2": "Oltre 30 anni in gestione materiali, progettazione sistemi e finanza – fondatore e CEO di ASSPL.",
+      "name3": "R Abilash Chakaravarth",
+      "position3": "Membro del CdA di",
+      "dec3": "Oltre 8 anni in design e sviluppo prodotto, titolare di vari brevetti, CEO di ASSPL.",
+      "name4": "R Abishek Karthik",
+      "position4": "Membro del CdA di",
+      "dec4": "Neolaureato in ingegneria meccanica con MBA, 5 anni di esperienza nella manifattura – competenze in sviluppo prodotto.",
+      "name5": "S Anandh",
+      "position5": "Responsabile tecnico di",
+      "dec5": "Oltre 20 anni come architetto ERP scalabile e sicuro, ottimizzando processi per crescita."
+    }
+  },
+  "ProductEnquiry": {
+    "Title": "Richiesta prodotto",
+    "ContactTitle": "Contattaci",
+    "Subtitle": "Contatta ACE Software Solutions per prenotare una demo gratuita",
+    "code": "IT",
+    "Form": {
+      "Name": "Nome",
+      "NamePlaceholder": "Inserisci il tuo nome",
+      "Company": "Nome azienda",
+      "CompanyPlaceholder": "Inserisci il nome della tua azienda",
+      "Email": "Email aziendale",
+      "EmailPlaceholder": "Inserisci la tua email",
+      "Mobile": "Numero di cellulare",
+      "Location": "La tua posizione",
+      "LocationPlaceholder": "Inserisci la tua posizione",
+      "Product": "Prodotto di interesse",
+      "ProductPlaceholder": "Inserisci il nome del prodotto",
+      "Queries": "Domande",
+      "QueriesPlaceholder": "Inserisci le tue domande",
+      "Submit": "Invia",
+      "Submitting": "Invio in corso...",
+      "EmailError": "Inserisci un indirizzo email valido.",
+      "PhoneError": "Inserisci un numero di telefono valido.",
+      "CheckboxError": "Seleziona almeno un prodotto."
+    },
+    "Messages": {
+      "Failure": "Si è verificato un problema durante l’invio. Riprova più tardi.",
+      "ValidationUnavailable": "Servizio di validazione email non disponibile."
+    },
+    "contacts": {
+      "contact": "Contatto",
+      "Us": "Noi",
+      "Subtitle": "Contattaci e prenota una",
+      "highlight": "demo oggi!",
+      "demo": "Prenota una gratuita",
+      "RequestCallback": "Richiedi una chiamata",
+      "para": "Sei curioso di sapere come i prodotti Ace Software possano migliorare la tua azienda? Compila semplicemente il modulo e uno dei nostri esperti ti chiamerà per capire le tue esigenze e consigliarti la soluzione perfetta.",
+      "write": "Puoi anche scriverci a:",
+      "directContacts": "Contatti diretti",
+      "callSchedule": "Chiamata o videochiamata",
+      "support": "Supporto",
+      "sales": "Vendite",
+      "consult": "Consulta un esperto",
+      "consultSubtext": "Analisi esigenze e demo",
+      "customDev": "Richiedi sviluppo personalizzato",
+      "customDevSubtext": "Hai bisogno di contattare gli sviluppatori?",
+      "supportRequests": "Richieste di supporto",
+      "supportSubtext": "Hai domande? Hai bisogno di assistenza?",
+      "visitUs": "Vienici a trovare",
+      "address": "#306, 2° piano, NSIC-Software Technology Business Park, B-24, Guindy Industrial Estate, Ekkatuthangal, Chennai-600032, India",
+      "callUs": "Chiamaci",
+      "emailUs": "Scrivici",
+      "Mobile": "Cellulare"
+    }
+  },
+  "ThankYou": {
+  "Title": "Grazie per averci contattato!",
+  "Subtitle": "Apprezziamo che tu abbia dedicato del tempo per contattarci. La tua richiesta è importante per noi e siamo entusiasti di poterti aiutare.",
+  "Review": "In revisione",
+  "para": "Il nostro team sta esaminando il tuo messaggio",
+  "Soon": "Risponderemo presto",
+  "Expect": "Attendi una risposta entro 24 ore",
+  "Home": "Torna alla homepage",
+  "Chat": "Chatta su WhatsApp",
+  "Explore": "Esplora i nostri prodotti",
+  "need": "Hai bisogno di assistenza immediata? Chiamaci",
+  "Success": "Successo!",
+  "form": "Il tuo modulo è stato inviato con successo"
+},
+  "Footer": {
+    "contactUs": "Contattaci",
+    "address": "#306, 2° piano, NSIC-Software Technology Business Park, B-24, Guindy Industrial Estate, Ekkatuthangal, Chennai-600032, India",
+ "links": {
+  "QuickLinks": "Collegamenti rapidi",
+  "help": "Aiuto",
+  "Home": "Home",
+  "Products": "Prodotti",
+  "Contact": "Contattaci",
+  "about": "Chi siamo",
+  "phone": "Telefono",
+  "email": "Email",
+  "productEnquiry": "Richiesta prodotto",
+  "bookDemo": "Prenota una demo",
+   "privacy": "Informativa sulla Privacy",
+  "terms": "Termini e Condizioni"
+},
+    "copyright": "© 2025, Tutti i diritti riservati "
+  },
+  "products": {
+    "Title": "I nostri prodotti",
+    "Subtitle": "Soluzioni software intelligenti per ottimizzare le tue operazioni di produzione",
+    "Categories": "Categorie",
+    "Loading": "Caricamento prodotti",
+    "Nofound": "Nessun prodotto trovato",
+    "LearnMore": "Scopri di più",
+    "Demobutton": "Prenota demo",
+    "TryButton": "Prova ora",
+    "WhyChoose": "Perché scegliere",
+    "WhoNeed": "Chi ne ha bisogno",
+    "ProductImages": "Immagini prodotto",
+    "Customers": "Cosa dicono i nostri clienti",
+    "plans": "I nostri piani prodotto",
+    "all": "Tutti"
+  },
+  "Unauthorized": {
+    "Title": "Non autorizzato",
+    "para": "Spiacenti, non hai accesso a questa pagina. È riservata ai",
+    "highlight": "amministratori",
+    "button": "Vai alla homepage"
+  },
+  "CallbackCard": {
+  "Heading": "Hai bisogno di aiuto per scegliere il ",
+  "highlight": "prodotto giusto",
+  "Subtitle": "Hai domande o necessità? Siamo felici di aiutarti.",
+  "button": "RICHIEDI UNA CHIAMATA",
+  "contact": "Contattaci",
+  "phone": "Telefono",
+  "email": "Email",
+  "Title": "Prodotti più popolari",
+  "feature1": "Sistema di gestione della calibrazione",
+  "feature2": "Gestione delle relazioni con i clienti",
+  "tagline1": "Aumenta la produttività con una gestione affidabile della calibrazione.",
+  "tagline2": "Conosci i tuoi clienti. Costruisci fiducia. Fai crescere il tuo business.",
+  "LearnMore": "Scopri di più"
+},
+
+"Blog": {
+  "title": "Come il software aziendale intelligente semplifica le operazioni e aumenta la produttività",
+  "para": "Comprendi il software aziendale attraverso articoli semplici scritti da esperti.",
+  "cardtitle1": "Migliora la produttività del team",
+  "cardcontent1": "Scopri come gli strumenti software possono migliorare la comunicazione, il monitoraggio delle attività e la collaborazione per ottenere risultati migliori.",
+  "cardtitle2": "Semplifica le operazioni aziendali",
+  "cardcontent2": "Scopri come le soluzioni digitali automatizzano i processi di routine, riducono il lavoro manuale e aumentano l’efficienza.",
+  "cardtitle3": "Prendi decisioni più intelligenti",
+  "cardcontent3": "Scopri come il software basato sui dati supporta una migliore pianificazione, reportistica e decisioni all'interno dei team.",
+  "product": "Potenzia la tua attività con strumenti pensati per la crescita",
+  "productdec1": "Automatizza, monitora e rimani conforme senza sforzo.",
+  "productdec2": "Concludi affari più rapidamente. Offri un servizio migliore.",
+  "productdec3": "Tieni i progetti sotto controllo e i team allineati.",
+  "productdec4": "Semplifica il PPAP per l’eccellenza nell’automotive e nella produzione.",
+  "LatestBlogs": "Ultimi Blog",
+  "ReadMore": "Leggi di più",
+  "Book": "Prenota una",
+  "FreeDemo": "Demo gratuita",
+  "bookdemopara": "Partecipa a una demo pratica e scopri come i nostri strumenti possono farti risparmiare tempo, ridurre i costi e aumentare la produttività.",
+  "ExpertGuide": "Guida esperta",
+  "Minutes": "30 minuti",
+  "FreeTrial": "Inizia la prova gratuita",
+  "BookDemo": "Prenota subito la tua demo",
+  "customers": "Unisciti a oltre 3.000 clienti soddisfatti",
+  "Category": "Filtra per categoria",
+  "Noblogs": "Nessun blog trovato",
+  "Try": "Prova a selezionare un’altra categoria per vedere più contenuti.",
+  "BookFreeDemo": "Prenota una demo gratuita",
+  "Discover": "Scopri come la nostra soluzione può trasformare il tuo flusso di lavoro. Ricevi una presentazione personalizzata per la tua attività.",
+  "BookNow": "Prenota ora"
+},
+
+  "privacyPolicy": {
+    "title": "Politica sulla Privacy",
+    "effectiveDate": "Data di Entrata in Vigore",
+    "prefix": "Presso",
+    "intro": "(“ACE Soft,” “noi,” “nostro” o “ci”) ci impegniamo a proteggere la tua privacy e salvaguardare le tue informazioni personali. Questa Politica sulla Privacy spiega quali dati raccogliamo, come li utilizziamo, per quanto tempo li conserviamo e le tue scelte riguardo alle tue informazioni quando visiti",
+    "suffix": " o utilizzi i nostri prodotti e servizi.",
+
+    "informationWeCollect": {
+      "title": "1. Informazioni che Raccogliamo",
+      "des": "Possiamo raccogliere i seguenti tipi di informazioni:",
+      "personalInformation": {
+        "title": "Informazioni Personali",
+        "des": "come il tuo nome, indirizzo e-mail, numero di telefono, dettagli aziendali e qualsiasi informazione che fornisci volontariamente tramite moduli o comunicazioni dirette."
+      },
+      "usageData": {
+        "title": "Dati di Utilizzo",
+        "des": "inclusi indirizzo IP, dettagli del dispositivo, tipo di browser, sistema operativo, pagine visitate e data e ora di accesso."
+      },
+      "cookiesAndTracking": {
+        "title": "Cookie e Tecnologie di Tracciamento",
+        "des": "piccoli file utilizzati per migliorare la tua esperienza di navigazione, analizzare le prestazioni del sito e supportare le attività di marketing."
+      }
+    },
+
+    "howWeUse": {
+      "title": "2. Come Utilizziamo le Tue Informazioni",
+      "des": "Le tue informazioni possono essere utilizzate per:",
+      "point1": "Fornire, gestire e migliorare i nostri prodotti e servizi.",
+      "point2": "Rispondere a richieste, richieste di supporto e necessità dei clienti.",
+      "point3": "Inviare aggiornamenti, offerte o comunicazioni promozionali (solo se hai acconsentito).",
+      "point4": "Monitorare le prestazioni del sito web, i modelli di utilizzo e la sicurezza.",
+      "point5": "Rispettare gli obblighi legali e normativi applicabili."
+    },
+
+    "dataRetention": {
+      "title": "3. Conservazione dei Dati",
+      "des": "Conserviamo le informazioni personali solo per il tempo necessario agli scopi indicati in questa Politica sulla Privacy o secondo quanto richiesto dalla legge."
+    },
+
+    "sharing": {
+      "title": "4. Condivisione delle Informazioni",
+      "des": "Non vendiamo né affittiamo i tuoi dati personali. Le informazioni possono essere condivise solo:",
+      "point1": "Con fornitori di servizi terzi fidati (es. hosting, analytics, supporto IT) sotto stretti accordi di riservatezza.",
+      "point2": "Se richiesto dalla legge, da regolamenti o da richieste legali valide.",
+      "point3": "Per proteggere i diritti, la proprietà o la sicurezza di ACE Soft, dei nostri utenti o di altri."
+    },
+
+    "security": {
+      "title": "5. Sicurezza dei Dati",
+      "des": "Implementiamo misure tecniche e organizzative adeguate per proteggere le tue informazioni da accessi non autorizzati, alterazioni o divulgazioni. Sebbene adottiamo tutte le precauzioni ragionevoli, nessun metodo di trasmissione o archiviazione online è completamente sicuro."
+    },
+
+    "yourRights": {
+      "title": "6. I Tuoi Diritti",
+      "des": "A seconda della tua posizione, potresti avere il diritto di:",
+      "point1": "Accedere, correggere o eliminare le tue informazioni personali.",
+      "point2": "Limitare o opporsi al trattamento dei tuoi dati.",
+      "point3": "Ritirare il consenso per comunicazioni di marketing in qualsiasi momento.",
+      "unsubscribe": "Puoi annullare l'iscrizione alle nostre comunicazioni seguendo le istruzioni nell'e-mail o contattandoci direttamente."
+    },
+
+    "cookies": {
+      "title": "7. Cookie",
+      "des": "Utilizzando il nostro sito web, acconsenti all'uso dei cookie come descritto in questa politica. Puoi disabilitare o gestire i cookie nelle impostazioni del browser, ma alcune funzionalità del sito potrebbero non funzionare correttamente senza di essi."
+    },
+
+    "thirdParty": {
+      "title": "8. Collegamenti a Terzi",
+      "des": "Il nostro sito web può contenere collegamenti a siti web di terzi. Non siamo responsabili delle pratiche sulla privacy o dei contenuti di tali siti esterni."
+    },
+
+    "changes": {
+      "title": "9. Modifiche a Questa Politica",
+      "des": "Potremmo aggiornare questa Politica sulla Privacy di tanto in tanto. Gli aggiornamenti saranno pubblicati su questa pagina con una nuova Data di Entrata in Vigore."
+    },
+
+    "governingLaw": {
+      "title": "10. Legge Applicabile",
+      "des": "Questa Politica sulla Privacy è regolata e interpretata in conformità con le leggi dell'India."
+    },
+
+    "contact": {
+      "title": "11. Contattaci",
+      "des": "Se hai domande su questa Politica sulla Privacy o sulle nostre pratiche sui dati, contattaci a:",
+      "address": "#306, 2° piano, NSIC-Software Technology Business Park, B-24, Guindy Industrial Estate, Ekkatuthangal, Chennai - 600032, India"
+    }
+  },
+
+  "terms": {
+    "title": "Termini e Condizioni",
+    "effectiveDate": "Data di Entrata in Vigore",
+    "prefix": "Benvenuto su",
+    "operated": "gestito da",
+    "intro": "(“ACE Soft,” “noi,” “nostro” o “ci”). Accedendo o utilizzando il nostro sito web, prodotti o servizi, accetti di rispettare e essere vincolato da questi Termini e Condizioni. Leggili attentamente.",
+
+    "useof": {
+      "title": "1. Uso del Sito Web e dei Servizi",
+      "point1": "Accetti di utilizzare il nostro sito web e i nostri servizi solo per scopi legali.",
+      "point2": "Non devi utilizzare il nostro sito web per distribuire codice dannoso, interrompere le funzionalità o partecipare ad attività non autorizzate.",
+      "point3": "L'accesso a determinate funzionalità potrebbe richiedere di fornire informazioni accurate e complete."
+    },
+
+    "intellectualProperty": {
+      "title": "2. Proprietà Intellettuale",
+      "point1": "Tutti i contenuti di questo sito web, inclusi testi, grafica, loghi, software e design, sono di proprietà di ACE Software Solutions Pvt Ltd e protetti dalle leggi applicabili sul copyright e sulla proprietà intellettuale.",
+      "point2": "Non puoi riprodurre, distribuire o creare opere derivate dai nostri contenuti senza previo consenso scritto."
+    },
+
+    "user": {
+      "title": "3. Responsabilità dell’Utente",
+      "point1": "Sei responsabile della riservatezza delle credenziali di accesso fornite.",
+      "point2": "Sei responsabile di garantire che l'uso dei nostri servizi sia conforme alle leggi e normative applicabili."
+    },
+
+    "thirdParty": {
+      "title": "4. Collegamenti a Terzi",
+      "des": "Il nostro sito web può contenere collegamenti a siti web di terzi. Non siamo responsabili dei contenuti, dell'accuratezza o delle pratiche di tali siti, e l'accesso avviene a tuo rischio."
+    },
+
+    "limitation": {
+      "title": "5. Limitazione di Responsabilità",
+      "point1": "Anche se facciamo ogni sforzo per garantire che il nostro sito web e i nostri servizi siano affidabili, non garantiamo un funzionamento ininterrotto o privo di errori.",
+      "point2": "ACE Software Solutions Pvt Ltd non sarà responsabile per danni diretti, indiretti, incidentali o consequenziali derivanti dall'uso del nostro sito web, prodotti o servizi."
+    },
+
+    "warrantiesDisclaimer": {
+      "title": "6. Esclusione di Garanzie",
+      "des": "Tutti i servizi e contenuti forniti su questo sito web sono offerti 'così come sono' e 'come disponibili'. Decliniamo tutte le garanzie, espresse o implicite, incluse, a titolo esemplificativo, l'idoneità a uno scopo specifico, l'accuratezza o la non violazione."
+    },
+
+    "privacy": {
+      "title": "7. Privacy",
+      "des": "L'uso del nostro sito web è disciplinato anche dalla nostra Politica sulla Privacy."
+    },
+
+    "changesToTerms": {
+      "title": "8. Modifiche ai Termini",
+      "des": "Possiamo aggiornare o modificare questi Termini e Condizioni in qualsiasi momento. Le modifiche saranno pubblicate su questa pagina con una nuova Data di Entrata in Vigore. L'uso continuato del nostro sito web o dei servizi dopo tali modifiche costituisce accettazione."
+    },
+
+    "governingLaw": {
+      "title": "9. Legge Applicabile",
+      "des": "Questi Termini e Condizioni sono disciplinati e interpretati in conformità con le leggi dell'India. Qualsiasi controversia sarà soggetta alla giurisdizione esclusiva dei tribunali di Chennai, Tamil Nadu, India."
+    },
+
+    "contact": {
+      "title": "10. Contattaci",
+      "des": "Per qualsiasi domanda riguardante questi Termini e Condizioni, contattaci a:",
+      "address": "#306, 2° piano, NSIC-Software Technology Business Park, B-24, Guindy Industrial Estate, Ekkatuthangal, Chennai - 600032, India"
+    }
+  }
+
+
+
+
+}

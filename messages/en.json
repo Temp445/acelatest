@@ -1,0 +1,391 @@
+{
+  "Menu": {
+    "CMSTooltip": " Smart, simple, and seamless — calibration made easy ",
+    "CRMTooltip": "Know Your Customer. Grow Your Business.",
+    "PPAPTooltip": "Ensuring Quality, Every Part, Every Time.",
+    "ProjectTooltip": "Simplify Projects. Empower Teams."
+  },
+  "Header": {
+    "Home": "Home",
+    "Blog": "Blog",
+    "BlogPanel": "Blog Panel",
+    "SiteAdmin": "Site Admin",
+    "Product": "Products",
+    "Enquiry": "Product Enquiry",
+    "Contact": "Contact Us",
+    "About": "About Us",
+    "Dashboard": "Dashboard",
+    "Login": "Login",
+    "Logout": "Logout",
+    "Allproducts": "All Products",
+    "bookDemo": "Book A Demo"
+  },
+  "Hero": {
+    "Title": "We Provide Business Software Solutions for",
+    "highlight": "the Manufacturing Industry",
+    "Description": "Optimize your business with advanced ERP solutions, Industry 4.0 innovations, and cloud-based management systems. From automotive and aerospace to manufacturing and trading, we deliver smart, scalable, and secure software tailored to your industry's needs.",
+    "button": {
+      "Contact": "Contact Us",
+      "readmore": "Read more",
+      "Viewall": "View all products",
+      "BookDemo": "Book A Demo Now",
+      "OurClients": "Our Clients"
+    },
+    "WhoWe": {
+      "Title": "Who We Are",
+      "Description": "a company incorporated in 2001, has its Head Office and its Research & Development center in Chennai. The company was started by professionals having rich experience in the Manufacturing sector. The ASSPL Management Team has hands on experience in designing and implementation of ERP systems, Industry 4.0 & IIOT Solutions and SAAS model products for small, medium and large industries and corporate."
+    },
+    "count": {
+      "clients": "Clients",
+      "years": "Years",
+      "projects": "Projects"
+    },
+    "product": {
+      "Title": "Our Products",
+      "cmspara1": " on Cloud – a comprehensive, efficient and user-friendly Calibration Management System helps to manage your Gauges & Instruments calibration needs.",
+      "cmspara2": "Calibration of gauges and instruments is one of the vital processes for any manufacturing industry to produce a quality and reliable product to satisfy customer needs.",
+      "pmspara1": "assists in planning, producing, monitoring, and controlling, including corrective actions of production activities in Real Time / Online on the shop floor.",
+      "pmspara2": "The main objective of Ace Production Management System is to produce good quality and right quantity product at the right time cost effectively."
+    },
+    "DemoCard": {
+      "Title": "Ready to Transform Your Business?",
+      "para": "Schedule a personalized demo to see how our solutions can address your specific challenges and drive growth for your business"
+    }
+  },
+  "About": {
+    "Title": "About ACE Software Solutions",
+    "Description": " a company incorporated in 2001, has its Head Office and its Research & Development center in Chennai. The company was started by professionals having rich experience in the Manufacturing sector.",
+    "para": "The ASSPL Management Team has hands on experience in designing and implementation of ",
+    "highlight": " ERP systems, Industry 4.0 & IIOT Solutions and SAAS model products",
+    "para1": "for small, medium and large industries and corporate.",
+    "para2": "Further the ASSPL Management Team possess functional expertise and process knowledge of various segments of industry like Automotive, Aerospace, Foundry, Leather and Project Management. The ASSPL Management Team has an edge over the others in understanding the industry requirements towards various Quality system accreditations, the client has to comply, since they were also instrumental in getting accreditations (ISO, TS and Environmental) done for large industrial houses.",
+    "para3": " The ASSPL Management Team has expertise in Automotive, Aerospace, Foundry, Leather, and Project Management industries. Their deep understanding of quality system accreditations like ISO, TS, and Environmental standards gives them a competitive edge, having successfully guided large industries in achieving these certifications.",
+    "para4": "The Development team is highly capable of providing a readymade solution to small and medium industries in quick time, at the same time taking care of providing tailor made solutions to suit the requirements of large industries.",
+    "Vision": "Our Vision",
+    "VisionPara": "To reach, connect and provide Technology Products – IIOT – Industry 4.0 solution and SAAS Model Products to the industry and corporate segments of all sizes that always strive to exceed their expectations.",
+    "Mission": "Our Mission",
+    "MissionPara": "Provide the world's best Technology Products and SAAS Model solutions that enable businesses to excel.",
+    "Values": "Our Values",
+    "ValuesPara": "We provide solutions that meet customer needs, take responsibility for our work, deliver on time, and strive for excellence, stability, and growth.",
+    "WhyChoose": {
+      "Title": "Why Choose Us",
+      "Subtitle": "6 Reasons To Partner With ",
+      "Point1": "Experts in Engineering Software",
+      "dec1": "Since 2001, we've been building cutting-edge engineering and custom software solutions tailored for businesses like yours.",
+      "Point2": "Highly Skilled & Experienced Team",
+      "dec2": "Our experts specialize in automation, enterprise software, and engineering solutions, delivering reliable and efficient results.",
+      "Point3": "Fast & Dependable Support",
+      "dec3": "We provide timely assistance to minimize downtime and keep your operations running smoothly—no unnecessary delays.",
+      "Point4": "Trusted by Businesses Worldwide",
+      "dec4": "With over two decades of experience, we focus on quality, reliability, and long-term partnerships to ensure your success.",
+      "Point5": "Tailored Software for Your Needs",
+      "dec5": "From engineering tools to enterprise solutions like CRM and PPAP, we design software that perfectly fits your business.",
+      "Point6": "Simplified, User-Friendly Technology",
+      "dec6": "We make complex technology easy to use, delivering intuitive solutions that integrate seamlessly into your workflow."
+    },
+    "Team": {
+      "Title": "Our Leadership Team",
+      "name1": "R Rajagopalan",
+      "position1": "Chairman of ",
+      "dec1": "With over 35 years of experience in the automobile industry, specializing in Industrial Engineering, Production Planning, Shop Floor Systems, and Materials Management, he provides strategic inputs for the organizational growth of ASSPL.",
+      "name2": "S Rajasekaran",
+      "position2": "Managing Director of ",
+      "dec2": "With over 30 years' experience in Materials Management & System Design and Finance, he is also the Founder & CEO of ASSPL, who leads the day-to-day functions on a strategic level with his domain expertise.",
+      "name3": "R Abilash Chakaravarth",
+      "position3": "Board of Directors of ",
+      "dec3": "With more than 8 years of experience in product design and product development , he holds several patterns and research papers in the field of engineering, he is CEO of ASSPL providing key insights to achieve and propel the organisation.",
+      "name4": "R Abishek Karthik",
+      "position4": "Board of Directors of ",
+      "dec4": "A Young Mechanical Engineering Graduate from Anna University and MBA in BITS Pilani with 5 years of experience in manufacturing sector provides functional and domain expertise on new product developments.",
+      "name5": "S Anandh",
+      "position5": "Technical Head of ",
+      "dec5": "With 20+ years of expertise, the lead architect designs scalable and secure ERP systems for ACE Profit, optimizing processes, enhancing efficiency, and driving business growth."
+    }
+  },
+  "ProductEnquiry": {
+    "Title": "Product Enquiry ",
+    "ContactTitle": "Contact Us",
+    "Subtitle": "Contact ACE Software Solutions to Book a Free Demo",
+    "code": "IN",
+    "Form": {
+      "Name": "Name",
+      "NamePlaceholder": "Enter your name",
+      "Company": "Company Name",
+      "CompanyPlaceholder": "Enter your company name",
+      "Email": "Business Email",
+      "EmailPlaceholder": "Enter your email",
+      "Mobile": "Mobile Number",
+      "Location": "Your Location",
+      "LocationPlaceholder": "Enter your location",
+      "Product": "Product Interested",
+      "ProductPlaceholder": "Enter the Product Name",
+      "Queries": "Queries",
+      "QueriesPlaceholder": "Enter your queries",
+      "Submit": "Submit",
+      "Submitting": "Submitting...",
+      "EmailError": "Please enter a valid email address.",
+      "PhoneError": "Please enter a valid phone number.",
+      "CheckboxError": "Please select at least one product."
+    },
+    "Messages": {
+      "Failure": "There was an issue sending your message. Please try again later.",
+      "ValidationUnavailable": "Email validation service unavailable."
+    },
+    "contacts": {
+      "contact": "Contact",
+      "Us": "Us",
+      "Subtitle": "Connect with us and Book a",
+      "highlight": "Demo today!",
+      "demo": "Book a Demo",
+      "RequestCallback": "Request a Callback",
+      "para": " Curious about how Ace Software  Products can elevate your business? Just fill out the form, and one of our product experts will call you to understand your requirements and recommend the perfect solution.",
+      "write": "You can also write to us at:",
+      "directContacts": "Direct Contacts",
+      "callSchedule": "Call or Schedule a video conference",
+      "support": "Support",
+      "sales": "Sales",
+      "consult": "Consult with an expert",
+      "consultSubtext": "To analyze your needs & provide a demo",
+      "customDev": "Request Custom Developments",
+      "customDevSubtext": "Need to get in touch with developers?",
+      "supportRequests": "Support Requests",
+      "supportSubtext": "Have a question? Need assistance?",
+      "visitUs": "Visit Us",
+      "address": "#306, 2nd Floor, NSIC-Software Technology Business Park, B-24, Guindy Industrial Estate, Ekkatuthangal, Chennai-600032, India",
+      "callUs": "Call Us",
+      "emailUs": "Email Us",
+      "Mobile": "Mobile"
+    }
+  },
+    "ThankYou":{
+    "Title": "Thank You for Reaching Out!",
+    "Subtitle": "We appreciate you taking the time to contact us. Your enquiry is important to us and we're excited to assist you.",
+    "Review": "Under Review",
+    "para":"Our team is reviewing your message",
+    "Soon": "We'll Respond Soon",
+    "Expect": "Expect a reply within 24 hours",
+    "Home": "Return to Homepage",
+    "Chat": "Chat on WhatsApp",
+    "Explore": "Explore Our Products",
+    "need" : "Need immediate assistance? Call us at",
+   "Success" : "Success!",
+   "form": "Your form has been successfully submitted"
+    },
+    
+  "Footer": {
+    "contactUs": "Contact Us",
+    "address": "#306, 2nd Floor, NSIC-Software Technology Business Park, B-24, Guindy Industrial Estate, Ekkatuthangal, Chennai-600032, India",
+    "links": {
+      "QuickLinks": "Quick Links",
+      "help": "Help",
+      "Home": "Home",
+      "Products": "Products",
+      "Contact": "Contact Us",
+      "about": "About Us",
+      "phone": "Phone",
+      "email": "Email",
+      "productEnquiry": "Product Enquiry",
+      "bookDemo": "Book A Demo",
+      "privacy": "Privacy Policy",
+      "terms": "Terms & Conditions"
+    },
+    "copyright": "© Copyright 2025, All Rights Reserved by "
+  },
+  "products": {
+    "Title": "Our Products",
+    "Subtitle": "Smart Software Solutions to Optimize Your Manufacturing Operations",
+    "Categories": "Categories",
+    "Loading": "Loading products",
+    "Nofound": "No products found",
+    "LearnMore": "Learn More",
+    "Demobutton": "Book A Demo",
+    "TryButton": "Try Now",
+    "WhyChoose": "Why Choose",
+    "WhoNeed": "Who Needs",
+    "ProductImages": "Product Images",
+    "Customers": "What Our Customers Say",
+    "plans": " Our Product Plans",
+    "all": "All"
+  },
+  "Unauthorized": {
+    "Title": "Unauthorized",
+    "para": "Sorry, you don’t have access to this page. It’s reserved for",
+    "highlight": "admins only",
+    "button": "Go to Home"
+  },
+  "CallbackCard": {
+    "Heading": "Need assistance choosing the ",
+    "highlight": "right product",
+    "Subtitle": "Have questions or product needs? We’re happy to assist.",
+    "button": "REQUEST A CALLBACK",
+    "contact": "Contact Us",
+    "phone": "Phone",
+    "email": "Email",
+    "Title": "Most Popular Products",
+    "feature1": " Calibration Management System",
+    "feature2": "Customer Relationship Management",
+    "tagline1": "Boost Productivity with Reliable Calibration Management.",
+    "tagline2": "Know Your Customers. Build Trust. Grow Your Business.",
+    "LearnMore": "Learn more"
+  },
+  "Blog": {
+    "title": "How Smart Business Software Simplifies Operations and Boosts Productivity",
+    "para": "Understand business software through simple, expert-written articles.",
+    "cardtitle1": "Improve Team Productivity",
+    "cardcontent1": "Discover how software tools can streamline communication, task tracking, and team collaboration for better results.",
+    "cardtitle2": "Simplify Business Operations",
+    "cardcontent2": "Learn how digital solutions help automate routine processes, reduce manual effort, and improve business efficiency.",
+    "cardtitle3": "Make Smarter Decisions",
+    "cardcontent3": "Get insights into how data-driven software supports better planning, reporting, and decision-making across teams.",
+    "product": "Empower your business with tools designed for growth",
+    "productdec1": "Automate, Track, and Stay Compliant Effortlessly.",
+    "productdec2": "Close Deals Faster. Serve Customers Better.",
+    "productdec3": "Keep Projects on Track and Teams Aligned.",
+    "productdec4": "Simplifying PPAP for Automotive and Manufacturing Excellence.",
+    "LatestBlogs": "Latest Blogs",
+    "ReadMore": "Read More",
+    "Book": "Book a",
+    "FreeDemo": "Free Demo",
+    "bookdemopara": "Get a hands-on demo and learn how our tools can save time, cut costs, and boost productivity.",
+    "ExpertGuide": "Expert Guide",
+    "Minutes": "30 Minutes",
+    "FreeTrial": "Start Free Trial",
+    "BookDemo": "Book Your Demo Now",
+    "customers": "Join 3,000+ satisfied customers",
+    "Category": "Filter by Category",
+    "Noblogs": "No blogs found",
+    "Try": "Try selecting a different category to see more content.",
+    "BookFreeDemo": "Book a Free Demo",
+    "Discover": "Discover how our solution can transform your workflow. Get a personalized walkthrough tailored to your business.",
+    "BookNow": "Book Now"
+  },
+  "privacyPolicy": {
+    "title": "Privacy Policy",
+    "effectiveDate": "Effective Date",
+    "prefix": "At",
+    "intro": "(“ACE Soft,” “we,” “our,” or “us”), we are committed to protecting your privacy and safeguarding your personal information. This Privacy Policy explains what data we collect, how we use it, how long we retain it, and your choices regarding your information when you visit",
+    "suffix": "or use our products and services.",
+    "informationWeCollect": {
+      "title": "1. Information We Collect",
+      "des": "We may collect the following types of information:",
+      "personalInformation": {
+        "title": "Personal Information",
+        "des": "such as your name, email address, phone number, company details, and any information you voluntarily provide through forms or direct communication."
+      },
+      "usageData": {
+        "title": "Usage Data",
+        "des": "including IP address, device details, browser type, operating system, pages viewed, and the date and time of access."
+      },
+      "cookiesAndTracking": {
+        "title": "Cookies & Tracking Technologies",
+        "des": "small files used to improve your browsing experience, analyze site performance, and support marketing activities."
+      }
+    },
+    "howWeUse": {
+      "title": "2. How We Use Your Information",
+      "des": "Your information may be used to:",
+      "point1": "Provide, operate, and improve our products and services.",
+      "point2": "Respond to inquiries, support requests, and customer needs.",
+      "point3": "Send updates, offers, or promotional communications (only if you have opted in).",
+      "point4": "Monitor website performance, usage patterns, and security.",
+      "point5": "Comply with applicable legal and regulatory obligations."
+    },
+    "dataRetention": {
+      "title": "3. Data Retention",
+      "des": "We retain personal information only as long as necessary for the purposes outlined in this Privacy Policy or as required by law."
+    },
+    "sharing": {
+      "title": "4. Sharing of Information",
+      "des": "We do not sell or rent your personal data. Information may only be shared:",
+      "point1": "With trusted third-party service providers (e.g., hosting, analytics, IT support) under strict confidentiality agreements.",
+      "point2": "If required by law, regulation, or valid legal request.",
+      "point3": "To protect the rights, property, or safety of ACE Soft, our users, or others."
+    },
+    "security": {
+      "title": "5. Data Security",
+      "des": "We implement appropriate technical and organizational measures to protect your information from unauthorized access, alteration, or disclosure. While we take all reasonable precautions, no method of online transmission or storage is completely secure."
+    },
+    "yourRights": {
+      "title": "6. Your Rights",
+      "des": "Depending on your location, you may have the right to:",
+      "point1": "Access, correct, or delete your personal information.",
+      "point2": "Restrict or object to how we process your data.",
+      "point3": "Withdraw consent for marketing communications at any time.",
+      "unsubscribe": "You may unsubscribe from our communications by following the instructions in the email or contacting us directly at"
+    },
+    "cookies": {
+      "title": "7. Cookies",
+      "des": "By using our website, you consent to the use of cookies as described in this policy. You can disable or manage cookies in your browser settings, but some features of the website may not function properly without them."
+    },
+    "thirdParty": {
+      "title": "8. Third-Party Links",
+      "des": "Our website may contain links to third-party websites. We are not responsible for the privacy practices or content of those external sites."
+    },
+    "changes": {
+      "title": "9. Changes to this Policy",
+      "des": "We may update this Privacy Policy from time to time. Updates will be posted on this page with a revised Effective Date."
+    },
+    "governingLaw": {
+      "title": "10. Governing Law",
+      "des": "This Privacy Policy is governed by and construed in accordance with the laws of India."
+    },
+    "contact": {
+      "title": "11. Contact Us",
+      "des": "If you have any questions about this Privacy Policy or our data practices, please contact us at: ",
+      "address": "#306, 2nd Floor, NSIC-Software Technology Business Park, B-24, Guindy Industrial Estate, Ekkatuthangal, Chennai - 600032, India"
+    }
+  },
+  "terms": {
+    "title": "Terms & Conditions ",
+    "effectiveDate": "Effective Date",
+    "prefix": "Welcome to",
+    "operated": "operated by",
+    "intro": "(“ACE Soft,” “we,” “our,” or “us”). By accessing or using our website, products, or services, you agree to comply with and be bound by these Terms & Conditions. Please read them carefully.",
+    "useof": {
+      "title": "1. Use of Website and Services",
+      "point1": "You agree to use our website and services only for lawful purposes.",
+      "point2": "You shall not use our website to distribute harmful code, disrupt functionality, or engage in unauthorized activities.",
+      "point3": "Access to certain features may require you to provide accurate and complete information."
+    },
+    "intellectualProperty": {
+      "title": "2. Intellectual Property",
+      "point1": "All content on this website, including text, graphics, logos, software, and design, is the property of ACE Software Solutions Pvt Ltd and protected under applicable copyright and intellectual property laws.",
+      "point2": "You may not reproduce, distribute, or create derivative works from our content without prior written consent."
+    },
+    "user": {
+      "title": "3. User Responsibilities",
+      "point1": "You are responsible for maintaining the confidentiality of any login credentials provided to you.",
+      "point2": "You are responsible for ensuring that your use of our services complies with applicable laws and regulations."
+    },
+    "thirdParty": {
+      "title": "4.Third-Party Links",
+      "des": "Our website may contain links to third-party websites. We are not responsible for the content, accuracy, or practices of those websites, and access to them is at your own risk."
+    },
+    "limitation": {
+      "title": "5. Limitation of Liability",
+      "point1": "While we make every effort to ensure our website and services are reliable, we do not guarantee uninterrupted or error-free operation.",
+      "point2": "ACE Software Solutions Pvt Ltd shall not be held liable for any direct, indirect, incidental, or consequential damages arising from the use of our website, products, or services."
+    },
+    "warrantiesDisclaimer": {
+      "title": "6. Warranties Disclaimer",
+      "des": "All services and content provided on this website are offered on an 'as is' and 'as available' basis. We disclaim all warranties, express or implied, including but not limited to fitness for a particular purpose, accuracy, or non-infringement."
+    },
+    "privacy": {
+      "title": "7. Privacy",
+      "des": "Your use of our website is also governed by our Privacy Policy."
+    },
+    "changesToTerms": {
+      "title": "8. Changes to Terms",
+      "des": "We may update or modify these Terms & Conditions at any time. Changes will be posted on this page with a revised Effective Date. Continued use of our website or services after such changes constitutes your acceptance."
+    },
+    "governingLaw": {
+      "title": "9. Governing Law",
+      "des": "These Terms & Conditions are governed by and construed in accordance with the laws of India. Any disputes will be subject to the exclusive jurisdiction of the courts in Chennai, Tamil Nadu, India."
+    },
+    "contact": {
+      "title": "10. Contact Us",
+      "des": "For any questions regarding these Terms & Conditions, please contact us at:",
+      "address": "#306, 2nd Floor, NSIC-Software Technology Business Park, B-24, Guindy Industrial Estate, Ekkatuthangal, Chennai - 600032, India"
+    }
+  }
+}
