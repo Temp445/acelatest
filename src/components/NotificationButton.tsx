@@ -116,15 +116,10 @@ const NotificationButton: React.FC<NotificationButtonProps> = ({ productPath, pr
   )}
 
 
-      <div className="group">
+      <div>
         <button onClick={handleClick} className="relative bg-gradient-to-br from-green-500 to-green-600 text-white py-2 px-3 rounded-l-lg shadow-2xl hover:shadow-green-500/50 transition-all duration-300">
           
           <FaWhatsapp className="relative text-3xl" />
-          
-          <div className="absolute right-full mr-3 top-1/2 -translate-y-1/2 bg-gray-900 text-white px-3 py-1.5 rounded-lg text-xs font-semibold whitespace-nowrap opacity-0 group-hover:opacity-100 transition-opacity duration-300 shadow-xl">
-            Chat with us
-            <div className="absolute right-[-4px] top-1/2 -translate-y-1/2 w-0 h-0 border-t-4 border-t-transparent border-b-4 border-b-transparent border-l-4 border-l-gray-900"></div>
-          </div>
         </button>
       </div>
 </div>
